@@ -1,0 +1,24 @@
+{
+"products":[
+{"id":1,"nama":"Cape wild cat","category":"Red"},
+{"id":2,"nama":"Golden jackal","category":"Turquoise"},
+{"id":3,"nama":"Eastern indigo snake","category":"Fuscia"},
+{"id":4,"nama":"Whale, baleen","category":"Maroon"},
+{"id":5,"nama":"Gnu, brindled","category":"Fuscia"},
+{"id":6,"nama":"Sloth, two-toed tree","category":"Khaki"},
+{"id":7,"nama":"Bent-toed gecko","category":"Green"},
+{"id":8,"nama":"Skimmer, four-spotted","category":"Mauv"},
+{"id":9,"nama":"Cliffchat, mocking","category":"Maroon"},
+{"id":10,"nama":"Francolin, swainson's","category":"Crimson"},
+{"id":11,"nama":"Burmese black mountain tortoise","category":"Indigo"},
+{"id":12,"nama":"Wallaroo, common","category":"Violet"},
+{"id":13,"nama":"Horned lark","category":"Teal"},
+{"id":14,"nama":"Falcon, peregrine","category":"Green"},
+{"id":15,"nama":"Onager","category":"Aquamarine"},
+{"id":16,"nama":"Anteater, giant","category":"Yellow"},
+{"id":17,"nama":"Squirrel, red","category":"Orange"},
+{"id":18,"nama":"Monkey, black spider","category":"Teal"},
+{"id":19,"nama":"Dog, bush","category":"Fuscia"},
+{"id":20,"nama":"Lizard, desert spiny","category":"Indigo"}
+]
+}
